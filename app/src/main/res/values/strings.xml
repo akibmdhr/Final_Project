@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA5cHJBuW9QrxAmD-7-8eHCMQW825aauQo</string>
+
+    <string name="utb_website">UTB Website</string>
+    <string name="intent_example">Other Example</string>
+    <string name="phone">Phone</string>
+    <string name="map_of_brno">Map of FAI UTB</string>
+    <string name="calendar_event">Calendar Event</string>
+
+    <string name="registeruser">registeruser</string>
+    <string name="welcome">Welcome</string>
+    <string name="add_product">Add Product</string>
+    <string name="view_store">View Products</string>
+    <string name="about_us">Extra</string>
+    <string name="logout">Logout</string>
+    <string name="todo">TODO</string>
+    <string name="grocery">Grocery</string>
+    <string name="clothes">Clothes</string>
+    <string name="food">Food</string>
+    <string name="product_detail">Add Product Detail</string>
+    <string name="product_name">Product name</string>
+    <string name="product_description">Product Description</string>
+    <string name="price">Price</string>
+    <string name="todo1">TODO1</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="checkout_now">Checkout Now</string>
+    <string name="icon">ICON</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_username">Remember Username</string>
+    <string name="login">Login</string>
+    <string name="regis">REGIS</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="sign_up_now">SIGN UP NOW</string>
+    <string name="splash">SPLASH</string>
+    <string name="logo">LOGO</string>
+    <string name="pp">PP</string>
+    <string name="name">Name:</string>
+    <string name="price2">Price:</string>
+    <string name="details">Details:</string>
+    <string name="type">Type:</string>
+    <string name="quantity_1">Quantity: 1</string>
+    <string name="imgdel">IMGDEL</string>
+    <string name="imgdele">IMGDele</string>
+    <string name="likeproduct">LIKEPRODUCT</string>
+    <string name="addtocart">ADDTOCART</string>
+    <string name="updateimg">UPDATEIMG</string>
+    <string name="search">Search</string>
+    <string name="all_products">All Products</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="give_correct_information"><![CDATA[Please your give correct information. Because, your email &amp; phone number needs to be verification.]]></string>
+    <string name="new_here_create_an_account">New here? Create an account</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
